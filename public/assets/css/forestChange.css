@@ -1,0 +1,24 @@
+.layout-image{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 10px!important;
+}
+.display-inlineblock{
+    display: inline-block;
+}
+.forest-panel-title-note{
+    font-size: 12px!important;
+}
+.forest-panel-heading-note{
+    padding:5px!important;
+}
+.forest-change-note-header{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.forest-btn-change-project{
+    color: white!important;
+    margin-top: 5px!important;
+    border: 1px solid!important;
+}
